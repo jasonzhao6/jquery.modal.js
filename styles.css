@@ -50,6 +50,9 @@ p {
 a, a:hover, a:active, a:visited {
   color: #204C61;
 }
+.dim {
+  background: #ccc;
+}
 h4 {
   padding-bottom: 6px;
 }
