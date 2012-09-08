@@ -1,5 +1,5 @@
 # jQuery.modal.js
-This plugin creates a modal with an X while dimming the background.
+This plugin creates a modal dialog and dims the background.
 
 It has been tested in IE7-9 and weighs less than a kilobyte.
 
