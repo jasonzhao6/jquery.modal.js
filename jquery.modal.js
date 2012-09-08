@@ -46,8 +46,8 @@
         });
       });
       function close() {
-        $('.modal').hide();
-        $('#jquery-modal-dim').fadeOut();
+        $('.modal').fadeOut(200);
+        $('#jquery-modal-dim').fadeOut(200);
       }
     }
   });
